@@ -6,7 +6,7 @@
 
     <parent>
         <artifactId>stomp</artifactId>
-        <groupId>com.gmail.bishoybasily</groupId>
+        <groupId>com.gmail.olo6525</groupId>
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
